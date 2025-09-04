@@ -4,7 +4,7 @@
 
 This script automatically collects and exports data from Active Directory (AD) into CSV files. It gathers information on computers, users, groups and members, and organizational units (OUs) within the AD Domain, and saves them to a specified location for auditing or reporting purposes.
 
-> [!note]
+> [!NOTE]
 > If required, this script can run without any interaction and can be automated with Task Scheduler
 
 ### Prerequisites
