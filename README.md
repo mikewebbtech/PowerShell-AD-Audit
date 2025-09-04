@@ -2,7 +2,7 @@
 
 See the full [AD-Audit ](README-AD-Audit.md) document for full details and instructions.
 
-An example of a [Change Control Request][examplei-CCR.pdf] (_CCR_) is included for implementation approval.
+An example of a [Change Control Request][example-CCR.pdf] (_CCR_) is included for implementation approval.
 
 This PowerShell automation gathers the Active directory information for the required domain including:
 
